@@ -1,5 +1,5 @@
 # Pke-screen
-Enjoy it
+Enjoy it if you want to make fun stuff ! :)
 
 -> You need Ucglib library from olikraus ! (Thank you !)
 
